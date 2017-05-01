@@ -1,0 +1,19 @@
+{
+  "name": "autobahn",
+  "version": "1.0.0",
+  "description": "",
+  "main": "autobahn.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AtScaleInc/autobahn.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AtScaleInc/autobahn/issues"
+  },
+  "homepage": "https://github.com/AtScaleInc/autobahn#readme"
+}
